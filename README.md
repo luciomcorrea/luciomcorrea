@@ -12,9 +12,9 @@ Iniciei meus estudos na DIO no mês de setembro de 2023 e até final do ano quer
 
 ### Habilidades
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/getting-started/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=1)](https://docs.github.com/)
-[![JavaScript]()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=1)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ### Meu início é aqui
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luciomcorrea/dio-lab-open-source)
